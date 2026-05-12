@@ -32,10 +32,6 @@ Beta / produção inicial, em evolução com feedback de uso real por professore
 - [Termos de Uso](TERMS_OF_USE.md)
 - [Anúncios e Dados](ADS_AND_DATA.md)
 - [Suporte](SUPPORT.md)
-- [Arquitetura Técnica](ARCHITECTURE.md)
-- [Qualidade Operacional](OPERATIONS_QUALITY.md)
-- [Notas de Versão](RELEASE_NOTES.md)
 
-Documentos internos ficam separados e não devem ser publicados sem revisão:
 
-- [Relatório Interno de Riscos](INTERNAL_RISKS_AND_OPEN_ISSUES.md)
+
